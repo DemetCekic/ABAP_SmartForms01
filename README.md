@@ -1,6 +1,4 @@
-# ABAP_SmartForms01
-ABAP - Smart Forms Project
-
+# ABAP - Smart Forms Project
 
 ## Description
 This ABAP program enables users to generate invoice outputs using SAP Smart Forms. It retrieves airline carrier data from the SCARR table based on currency codes entered through a selection screen, and then calls the Smart Form to display the results.
