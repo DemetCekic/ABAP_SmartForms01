@@ -6,7 +6,7 @@
 REPORT ZDC_SMARTFORMS_01.
 
 ************************************************************************
-* Program Name : ZSMARTFORM_INVOICE
+* Program Name : ZDC_SMARTFORMS_01
 * Description  : Smart Form output for customer invoices (based on SCARR)
 * Developed by : Demet Çekiç
 * Created on   : 13.06.2025
