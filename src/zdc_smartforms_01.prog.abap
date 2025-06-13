@@ -12,9 +12,14 @@ REPORT ZDC_SMARTFORMS_01.
 * Created on   : 13.06.2025
 ************************************************************************
 * Text Elements (used in selection screen)
-* TEXT-001: Invoice Selection
-* TEXT-C01: Please enter one or more currency codes
-* t_blank : (Blank line for visual spacing)
+* TEXT-001 :                                   FLIGHT SEARCH
+* TEXT-002 : Smart Form function module not found!
+* TEXT-003 : Error while executing Smart Form.
+* TEXT-C01 : Enter the currency you would like to search for below.
+* t_blank  : (Blank line for visual spacing)
+* R_ACTIVE : Active Flights
+* R_PASSIV : Passive Flights
+* S_CODE   : Currency:
 ************************************************************************
 
 DATA: gv_fm_name    TYPE RS38L_FNAM,
