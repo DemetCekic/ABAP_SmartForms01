@@ -11,6 +11,11 @@ REPORT ZDC_SMARTFORMS_01.
 * Developed by : Demet Çekiç
 * Created on   : 13.06.2025
 ************************************************************************
+* Text Elements (used in selection screen)
+* TEXT-001: Invoice Selection
+* TEXT-C01: Please enter one or more currency codes
+* t_blank : (Blank line for visual spacing)
+************************************************************************
 
 DATA: gv_fm_name    TYPE RS38L_FNAM,
       gs_controls   TYPE SSFCTRLOP,
