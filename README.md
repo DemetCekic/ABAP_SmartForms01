@@ -18,10 +18,9 @@ This ABAP program enables users to generate invoice outputs using SAP Smart Form
 
 ## How to Run
 1. Import the `.abap` driver program into your SAP system.
-2. Execute the program `ZSMARTFORM_INVOICE` from SE38.
+2. Execute the program `ZDC_SMARTFORMS_01` from SE38.
 3. Use the selection screen to enter currency codes and select active/passive status.
 4. The Smart Form invoice output will be displayed as a formatted PDF or print preview.
-
 
 ## Screenshots
 🖥️ **1. Selection Screen:**
